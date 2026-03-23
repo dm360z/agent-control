@@ -1,7 +1,10 @@
 # Agent Instructions
 
-Test update 1
+Test update 2
 
 Read this file every cycle.
-Do not take any action yet.
-Only log the contents.
+Do not use GitHub yet.
+Log:
+1. current UTC time
+2. current instruction file contents
+3. a message saying no action taken
